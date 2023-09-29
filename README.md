@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/H1dxi6xdh4NGQCZSvz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justviralnet-cat-hilarious-typing-H1dxi6xdh4NGQCZSvz">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <!--
