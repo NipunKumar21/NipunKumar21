@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer
 
 <div>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)](https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)](https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="600" height="300"/>
 </div>
 
 <!--
