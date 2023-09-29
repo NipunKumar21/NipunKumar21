@@ -1,8 +1,8 @@
 ### Hi there 👋
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer
 
-<div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)" width="600" height="300"/>
+<div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)](https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="600" height="300"/>
 </div>
 
 <!--
