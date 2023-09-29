@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
  
 
- ![Visitor Count](https : //profile-counter.glitch.me/{NipunKumar21}/count.svg)
+![](https://komarev.com/ghpvc/?username=NipunKumar21&color=blueviolet)
