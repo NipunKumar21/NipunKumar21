@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![NipunKumar21's GitHub stats](https://github-readme-stats.vercel.app/api?username=NipunKumar21&show_icons=true&theme=radical)
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ 
 
- ![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+ ![Visitor Count](https : //profile-counter.glitch.me/{NipunKumar21}/count.svg)
