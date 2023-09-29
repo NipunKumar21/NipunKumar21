@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)" width="600" height="300"/>
 </div>
 
 <!--
@@ -21,26 +21,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align="center">
 ![NipunKumar21's GitHub stats](https://github-readme-stats.vercel.app/api?username=NipunKumar21&show_icons=true&theme=radical)
-
+</div>
 
  
-
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=NipunKumar21&color=blueviolet)
+</div>
 
 
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NipunKumar21&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunKumar21&layout=compact&theme=vision-friendly-dark)](https://github.com/NipunKumar21/github-readme-stats)
+</div>
 
 
 
-
-<div>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
