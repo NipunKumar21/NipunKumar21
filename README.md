@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+
 ![NipunKumar21's GitHub stats](https://github-readme-stats.vercel.app/api?username=NipunKumar21&show_icons=true&theme=radical)
-</div>
+
 
  
-<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=NipunKumar21&color=blueviolet)
-</div>
 
 
-<div align="center">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunKumar21&layout=compact&theme=vision-friendly-dark)](https://github.com/NipunKumar21/github-readme-stats)
-</div>
+
 
 
 
