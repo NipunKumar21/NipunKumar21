@@ -1,8 +1,9 @@
 ### Hi there 👋
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer
 
-![image](https://github.com/NipunKumar21/NipunKumar21/assets/91518221/f2438b08-e6ce-401d-b3ce-49d61af55e9f)
 
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/NipunKumar21/NipunKumar21/assets/91518221/5933b6d5-2022-4510-95ca-67faab60dce5)
 
 
 <!--
