@@ -1,5 +1,10 @@
 ### Hi there 👋
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer
+
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media2.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif?cid=ecf05e47j61f749hx07n99z18oui9v94c7i8827hsyl0usp7&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="600" height="300"/>
+</div>
+
 <!--
 **NipunKumar21/NipunKumar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +28,15 @@ Here are some ideas to get you started:
  
 
 ![](https://komarev.com/ghpvc/?username=NipunKumar21&color=blueviolet)
+
+
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NipunKumar21&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunKumar21&layout=compact&theme=vision-friendly-dark)](https://github.com/NipunKumar21/github-readme-stats)
+
+
 
 
 <div>
