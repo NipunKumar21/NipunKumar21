@@ -1,9 +1,9 @@
 ### Hi there 👋
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer
 
-<div>
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/view/doge-type-typing-dogecoin-gif-22440104)](https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="600" height="300"/>
-</div>
+![image](https://github.com/NipunKumar21/NipunKumar21/assets/91518221/f2438b08-e6ce-401d-b3ce-49d61af55e9f)
+
+
 
 <!--
 **NipunKumar21/NipunKumar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +43,8 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+<div>  
+<a href="https://twitter.com/NipunKumar31343"
 </div>
